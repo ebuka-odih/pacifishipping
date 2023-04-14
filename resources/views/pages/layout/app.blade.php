@@ -547,19 +547,7 @@
 <script type='text/javascript' src='wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min31dc.js?ver=6.6.0' id='vc_waypoints-js'></script>
 
 
-<!--Start of Tawk.to Script-->
-<script type="text/javascript">
-    var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
-    (function(){
-        var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
-        s1.async=true;
-        s1.src='https://embed.tawk.to/63dad5f6c2f1ac1e2030e455/1go7d7k1h';
-        s1.charset='UTF-8';
-        s1.setAttribute('crossorigin','*');
-        s0.parentNode.insertBefore(s1,s0);
-    })();
-</script>
-<!--End of Tawk.to Script-->
+
 </body>
 
 <!-- Mirrored from www.courierplus-ng.com/ by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 27 Jan 2023 10:17:11 GMT -->
