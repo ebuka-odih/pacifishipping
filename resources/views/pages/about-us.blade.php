@@ -57,13 +57,13 @@
                                             <div></div>
                                             <div></div>
                                         </div>
-                                        <div class="braket-text" data-mobile-font="inherit" data-tablet-font="inherit">Pacifishippingco is a provider of end-to-end logistics solutions to businesses and institutions across Europe. We are currently among the top 4 logistics providers in the continent, operating from over 15 countries across Europe.</div>
+                                        <div class="braket-text" data-mobile-font="inherit" data-tablet-font="inherit">Pacifishippingco is a provider of end-to-end logistics solutions to businesses and institutions across Asia. We are currently among the top 4 logistics providers in the continent, operating from over 15 countries across Asia.</div>
                                     </div>
                                 </div>
                                 <div class="gap et-clearfix " style="height:32px"></div>
                                 <div class="wpb_text_column wpb_content_element ">
                                     <div class="wpb_wrapper">
-                                        <p>Pacifishippingco is logistics and distribution services company, founded in 2009 and later acquired in 2012 by Superflux Group of companies. We are the fourth largest courier company in Europe and intend to become –in the near future– the go-to courier company.</p>
+                                        <p>Pacifishippingco is logistics and distribution services company, founded in 2009 and later acquired in 2012 by Superflux Group of companies. We are the fourth largest courier company in Asia and intend to become –in the near future– the go-to courier company.</p>
                                         <p>We offer a wide array of express, courier and logistic support solutions aimed at helping customers re-engineer and re-invent their businesses to compete successfully in an ever-changing marketplace, with the final objective of safely and promptly delivering all our customers consignments as expected.</p>
                                         <p>With staff strength of over 300 highly skilled personnel, we have excellent competencies in striving sectors such as Financial Services, Manufacturing, Telecommunications, Government Agencies, and Oil &amp; Gas/Utilities.</p>
                                     </div>
@@ -150,7 +150,7 @@
                                     </h3>
                                     <div class="wpb_text_column wpb_content_element  vc_custom_1626200376829">
                                         <div class="wpb_wrapper">
-                                            <p style="text-align: center; font-size: 18px; line-height: 32px;">To achieve leadership in the Europe courier and logistics market by creating solutions that improve performances and enable its people and business partners.</p>
+                                            <p style="text-align: center; font-size: 18px; line-height: 32px;">To achieve leadership in the Asia courier and logistics market by creating solutions that improve performances and enable its people and business partners.</p>
                                         </div>
                                     </div>
                                 </div>

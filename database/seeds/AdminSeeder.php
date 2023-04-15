@@ -14,6 +14,7 @@ class AdminSeeder extends Seeder
      */
     public function run()
     {
+
         $admin = User::where('email', '=', 'admin@pacificshippingco.com')->first();
         if($admin === null){
             DB::table('users')->insert([
@@ -25,6 +26,7 @@ class AdminSeeder extends Seeder
                 'password' => Hash::make('PACIFICSHIP1234'),
             ]);
         }
+
     }
 
 

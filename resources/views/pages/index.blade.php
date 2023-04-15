@@ -934,12 +934,12 @@
                             <div class="gap et-clearfix " style="height:24px"></div>
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <p style="font-size: 24px; line-height: 32px;">Pacifishippingco is a provider of end-to-end logistics solutions to businesses and institutions across Europe.</p>
+                                    <p style="font-size: 24px; line-height: 32px;">Pacifishippingco is a provider of end-to-end logistics solutions to businesses and institutions across Asia.</p>
                                 </div>
                             </div>
                             <div class="wpb_text_column wpb_content_element ">
                                 <div class="wpb_wrapper">
-                                    <p style="font-size: 18px; line-height: 32px;">We are currently among the top 4 logistics providers in the country, operating from over 15 locations across Europe. Pacifishippingco has been in the distribution and logistics business since 2009.</p>
+                                    <p style="font-size: 18px; line-height: 32px;">We are currently among the top 4 logistics providers in the country, operating from over 15 locations across Asia. Pacifishippingco has been in the distribution and logistics business since 2009.</p>
                                 </div>
                             </div>
                         </div>

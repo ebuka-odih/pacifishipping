@@ -31,7 +31,7 @@ class Controller extends BaseController
 
 
     public function trackingNo(){
-        $first_sting = 'RUSH'; //this is d default starting string
+        $first_sting = 'PAC'; //this is d default starting string
         $last_string = strtoupper(Str::random(3)); //this auto generates last 3 strings
         $id = mt_rand(100000,999999); // this auto generates 7digit codes
         $tn = $first_sting.$id.$last_string; // this adds den togeda

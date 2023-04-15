@@ -28,8 +28,8 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://maps.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="CourierPlus Nigeria &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="CourierPlus Nigeria &raquo; Comments Feed" href="comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="CourierPlus Asia &raquo; Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="CourierPlus Asia &raquo; Comments Feed" href="comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
     <!-- No UA code set -->
@@ -86,8 +86,8 @@
     <link rel="canonical" href="/" />
     <link rel='shortlink' href='/' />
 
-    <meta property="og:site_name" content="CourierPlus Nigeria" />
-    <meta name="twitter:title" content="CourierPlus Nigeria">
+    <meta property="og:site_name" content="CourierPlus Asia" />
+    <meta name="twitter:title" content="CourierPlus Asia">
     <meta property="og:url" content="https://www.Pacifishippingco.com/" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Home" />
@@ -346,7 +346,7 @@
                     <div class="header-logo-area">
                         <div class="container">
                             <div class="logo logo-desk">
-                                <a href="{{ route('index') }}" title="CourierPlus Nigeria">
+                                <a href="{{ route('index') }}" title="CourierPlus Asia">
                                     <h4 style="font-weight: bolder; margin-top: 10px; color: #d18585">Pacifishippingco</h4>
                                 </a>
                             </div>
@@ -378,9 +378,9 @@
 
                     <div class="container et-clearfix">
                         <div class="logo logo-desk">
-                            <a href="{{ route('index') }}" title="CourierPlus Nigeria">
-{{--                                <img class="normal-logo" style="max-width:250px;max-height:89px;" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Nigeria">--}}
-{{--                                <img class="sticky-logo" style="max-width:250px;max-height:89px;margin-top:-44.5px;margin-left:-125px" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Nigeria">--}}
+                            <a href="{{ route('index') }}" title="CourierPlus Asia">
+{{--                                <img class="normal-logo" style="max-width:250px;max-height:89px;" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Asia">--}}
+{{--                                <img class="sticky-logo" style="max-width:250px;max-height:89px;margin-top:-44.5px;margin-left:-125px" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Asia">--}}
                             <h3 style="font-weight: bolder; margin-top: 30px; color: #d18585">Pacifishippingco</h3>
                             </a>
                         </div>
