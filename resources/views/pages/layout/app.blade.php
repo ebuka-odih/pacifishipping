@@ -28,14 +28,14 @@
     <meta name='robots' content='max-image-preview:large' />
     <link rel='dns-prefetch' href='http://maps.google.com/' />
     <link rel='dns-prefetch' href='http://fonts.googleapis.com/' />
-    <link rel="alternate" type="application/rss+xml" title="CourierPlus Asia &raquo; Feed" href="feed/index.html" />
-    <link rel="alternate" type="application/rss+xml" title="CourierPlus Asia &raquo; Comments Feed" href="comments/feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Pacificshippingco Asia &raquo; Feed" href="feed/index.html" />
+    <link rel="alternate" type="application/rss+xml" title="Pacificshippingco Asia &raquo; Comments Feed" href="comments/feed/index.html" />
     <!-- This site uses the Google Analytics by MonsterInsights plugin v8.10.0 - Using Analytics tracking - https://www.monsterinsights.com/ -->
     <!-- Note: MonsterInsights is not currently configured on this site. The site owner needs to authenticate with Google Analytics in the MonsterInsights settings panel. -->
     <!-- No UA code set -->
     <!-- / Google Analytics by MonsterInsights -->
     <script type="text/javascript">
-        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.courierplus-ng.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
+        window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.Pacificshippingco-ng.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.1"}};
         /*! This file is auto-generated */
         !function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
     </script>
@@ -86,8 +86,8 @@
     <link rel="canonical" href="/" />
     <link rel='shortlink' href='/' />
 
-    <meta property="og:site_name" content="CourierPlus Asia" />
-    <meta name="twitter:title" content="CourierPlus Asia">
+    <meta property="og:site_name" content="Pacificshippingco Asia" />
+    <meta name="twitter:title" content="Pacificshippingco Asia">
     <meta property="og:url" content="https://www.Pacifishippingco.com/" />
     <meta property="og:type" content="article" />
     <meta property="og:title" content="Home" />
@@ -307,13 +307,6 @@
     <div class="mobile-navigation" data-color="#424242">
         <div class="mob-menu-toggle-alt"></div>
 
-        <form class="search-form" action="https://www.courierplus-ng.com//" method="get">
-            <fieldset>
-                <input type="text" name="s" placeholder="Search..." />
-                <input type="submit" />
-                <div class="search-icon"></div>
-            </fieldset>
-        </form>
 
 
 
@@ -346,7 +339,7 @@
                     <div class="header-logo-area">
                         <div class="container">
                             <div class="logo logo-desk">
-                                <a href="{{ route('index') }}" title="CourierPlus Asia">
+                                <a href="{{ route('index') }}" title="Pacificshippingco Asia">
                                     <h4 style="font-weight: bolder; margin-top: 10px; color: #d18585">Pacifishippingco</h4>
                                 </a>
                             </div>
@@ -378,7 +371,7 @@
 
                     <div class="container et-clearfix">
                         <div class="logo logo-desk">
-                            <a href="{{ route('index') }}" title="CourierPlus Asia">
+                            <a href="{{ route('index') }}" title="Pacificshippingco Asia">
 {{--                                <img class="normal-logo" style="max-width:250px;max-height:89px;" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Asia">--}}
 {{--                                <img class="sticky-logo" style="max-width:250px;max-height:89px;margin-top:-44.5px;margin-left:-125px" src="wp-content/uploads/2021/06/stickercourier-logo.png" alt="CourierPlus Asia">--}}
                             <h3 style="font-weight: bolder; margin-top: 30px; color: #d18585">Pacifishippingco</h3>
