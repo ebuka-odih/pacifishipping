@@ -30,7 +30,7 @@
 
     <div class="visible-print text-center mb-4">
         <h4 class="text-center ">{{ $shipment->shipment_number }}</h4>
-        {!! QrCode::size(100)->generate($shipment->shipment_number); !!}
+{{--        {!! QrCode::size(100)->generate($shipment->shipment_number); !!}--}}
     </div>
     <div class="row">
        <div class="col-lg-6 col-md-12 col-sm-12">
